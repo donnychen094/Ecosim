@@ -2,7 +2,7 @@
 
 EcoSim is a deterministic economic simulation that models households, firms, and the government across weekly ticks. The first 52 ticks form a warm-up period where government baseline firms stabilize the economy before private entrepreneurship and adaptive pricing kick in. After that, households can open firms, compete on price/quality, and react to wages, wellbeing, and transfers.
 
-This is a team project. My specific contributions include:
+This is a team project. Contributor: Donny Chen. My specific contributions include:
 - Household agent wage expectation logic — built adaptive reservation wage system based on unemployment duration and market conditions.
 - Consumer behavior — designed utility-weighted purchasing decisions beyond simple price comparison
 - Skill system — tuned skill growth, decay, and wage anchoring mechanics

@@ -8,6 +8,8 @@ This is a team project. Contributor: Donny Chen. My specific contributions inclu
 - Skill system — tuned skill growth, decay, and wage anchoring mechanics
 - Labor market — implemented job switch cooldowns and wage threshold rules to prevent unrealistic poaching
 
+**Tech Stack:** Python · FastAPI · NumPy · SQLite · JavaScript · React · Chart.js
+
 ## Getting Started
 
 1. **Create a virtual environment** (optional)
